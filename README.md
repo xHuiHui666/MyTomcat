@@ -1,0 +1,7 @@
+# MyTomcat
+本人制作的一个简易的tomcat服务器
+WebContent为页面目录
+Start类为启动类
+MyHttpRequest为请求类
+MyHttpResponse为响应类
+MyHttpServer为服务器
